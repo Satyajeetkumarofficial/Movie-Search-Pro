@@ -1,8 +1,8 @@
 FROM python:3.11
 
-WORKDIR /Auto-Filter-Bot
+WORKDIR /Movie-Search-Pro
 
-COPY . /Auto-Filter-Bot
+COPY . /Movie-Search-Pro
 
 RUN pip install -r requirements.txt
 
