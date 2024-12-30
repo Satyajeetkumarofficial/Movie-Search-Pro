@@ -82,7 +82,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title.mention}</b>"""
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MoviesSearchPro">M̳̿͟͞o̳̿͟͞v̳̿͟͞i̳̿͟͞e̳̿͟͞ S̳̿͟͞e̳̿͟͞a̳̿͟͞r̳̿͟͞c̳̿͟͞h̳̿͟͞ P̳̿͟͞r̳̿͟͞o̳̿͟͞</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}</b>"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 
